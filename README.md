@@ -1,12 +1,12 @@
 # Prueba de concepto en electron
 
-## Manejando ventanas
+### Manejando ventanas
 
-## Navegación
+### Navegación
 
-### Handler javascript bindeado a un evento
+#### Handler javascript bindeado a un evento
 
-### Enlaces `<a>`
+#### Enlaces `<a>`
 
-## Empaquetado de la aplicación
+### Empaquetado de la aplicación
 
