@@ -1,0 +1,26 @@
+{
+  "name": "curso-de-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "config": {
+    "macOS": {
+      "iconPath": {
+        "source": "icon.icns",
+        "destiny": "cursodeelectron-darwin-x64/cursodeelectron.app/Contents/Resources/electron.icns"
+      }
+    }
+  },
+  "scripts": {
+    "start": "electron app.js",
+    "build": "electron-packager . cursodeelectron && cp $npm_package_config_macOS_iconPath_source $npm_package_config_macOS_iconPath_destiny"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^4.1.1",
+    "electron-packager": "^13.1.1"
+  }
+}
