@@ -1,5 +1,7 @@
 # Prueba de concepto en electron
 
+![logo de electron](/images/logo.png)
+
 ### Manejando ventanas
 
 ### Navegación
@@ -10,3 +12,6 @@
 
 ### Empaquetado de la aplicación
 
+### Debug proceso principal
+
+Mira la documentación oficial [aquí](https://electronjs.org/docs/tutorial/debugging-main-process-vscode)
