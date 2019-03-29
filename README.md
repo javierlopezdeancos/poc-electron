@@ -4,9 +4,9 @@
 
 ### Navegación
 
-#### Handler javascript bindeado a un evento
+1. Handler javascript bindeado a un evento
 
-#### Enlaces `<a>`
+2. Enlaces `<a>`
 
 ### Empaquetado de la aplicación
 
